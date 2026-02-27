@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fire_loop",
+    "name": "Fire Loop",
+    "requires": [
+      "fire",
+      "dot"
+    ],
+    "kind": "soft",
+    "score": 10
+  },
+  {
+    "id": "ice_control",
+    "name": "Ice Control",
+    "requires": [
+      "ice",
+      "duration"
+    ],
+    "kind": "soft",
+    "score": 9
+  },
+  {
+    "id": "storm_engine",
+    "name": "Storm Engine",
+    "requires": [
+      "lightning",
+      "cooldown"
+    ],
+    "kind": "hard",
+    "score": 8
+  },
+  {
+    "id": "toxic_lock",
+    "name": "Toxic Lock",
+    "requires": [
+      "poison",
+      "duration"
+    ],
+    "kind": "soft",
+    "score": 7
+  },
+  {
+    "id": "arcane_echo",
+    "name": "Arcane Echo",
+    "requires": [
+      "arcane",
+      "bounce"
+    ],
+    "kind": "soft",
+    "score": 6
+  },
+  {
+    "id": "blade_wall",
+    "name": "Blade Wall",
+    "requires": [
+      "physical",
+      "orbit"
+    ],
+    "kind": "hard",
+    "score": 5
+  },
+  {
+    "id": "crit_spike",
+    "name": "Crit Spike",
+    "requires": [
+      "crit",
+      "projectile"
+    ],
+    "kind": "soft",
+    "score": 4
+  },
+  {
+    "id": "rush_cycle",
+    "name": "Rush Cycle",
+    "requires": [
+      "move",
+      "cooldown"
+    ],
+    "kind": "soft",
+    "score": 3
+  },
+  {
+    "id": "magnet_farm",
+    "name": "Magnet Farm",
+    "requires": [
+      "magnet",
+      "aoe"
+    ],
+    "kind": "soft",
+    "score": 2
+  },
+  {
+    "id": "anti_fragile",
+    "name": "Anti Fragile",
+    "requires": [
+      "fire",
+      "ice"
+    ],
+    "kind": "anti",
+    "score": 1
+  }
+]

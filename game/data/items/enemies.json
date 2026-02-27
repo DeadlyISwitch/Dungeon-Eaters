@@ -1,0 +1,185 @@
+[
+  {
+    "id": "grunt_0",
+    "name": "Grunt 0",
+    "stats": {
+      "hp": 30,
+      "speed": 1.0
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_1",
+    "name": "Grunt 1",
+    "stats": {
+      "hp": 35,
+      "speed": 1.03
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_2",
+    "name": "Grunt 2",
+    "stats": {
+      "hp": 40,
+      "speed": 1.06
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_3",
+    "name": "Grunt 3",
+    "stats": {
+      "hp": 45,
+      "speed": 1.09
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_4",
+    "name": "Grunt 4",
+    "stats": {
+      "hp": 50,
+      "speed": 1.12
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_5",
+    "name": "Grunt 5",
+    "stats": {
+      "hp": 55,
+      "speed": 1.15
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_6",
+    "name": "Grunt 6",
+    "stats": {
+      "hp": 60,
+      "speed": 1.18
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_7",
+    "name": "Grunt 7",
+    "stats": {
+      "hp": 65,
+      "speed": 1.21
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_8",
+    "name": "Grunt 8",
+    "stats": {
+      "hp": 70,
+      "speed": 1.24
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "grunt_9",
+    "name": "Grunt 9",
+    "stats": {
+      "hp": 75,
+      "speed": 1.27
+    },
+    "behavior": "chase",
+    "tags": [
+      "swarm"
+    ],
+    "drops": {
+      "xp": 4
+    }
+  },
+  {
+    "id": "behemoth",
+    "name": "Behemoth",
+    "stats": {
+      "hp": 900,
+      "speed": 0.8
+    },
+    "behavior": "elite",
+    "tags": [
+      "elite",
+      "boss"
+    ],
+    "drops": {
+      "xp": 100,
+      "chest": 1
+    }
+  },
+  {
+    "id": "archon",
+    "name": "Archon",
+    "stats": {
+      "hp": 1400,
+      "speed": 1.0
+    },
+    "behavior": "boss",
+    "tags": [
+      "boss"
+    ],
+    "drops": {
+      "xp": 160,
+      "chest": 1
+    }
+  }
+]

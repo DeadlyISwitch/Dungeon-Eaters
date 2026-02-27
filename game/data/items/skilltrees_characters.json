@@ -1,0 +1,83 @@
+[
+  {
+    "character_id": "warden",
+    "nodes": [
+      {
+        "id": "w_a1",
+        "cost": 1,
+        "path": "A",
+        "effects": [
+          {
+            "stat": "max_hp",
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "id": "w_b1",
+        "cost": 1,
+        "path": "B",
+        "effects": [
+          {
+            "stat": "damage",
+            "value": 0.08
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "character_id": "arcanist",
+    "nodes": [
+      {
+        "id": "a_a1",
+        "cost": 1,
+        "path": "A",
+        "effects": [
+          {
+            "stat": "damage",
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "id": "a_b1",
+        "cost": 1,
+        "path": "B",
+        "effects": [
+          {
+            "stat": "attack_speed",
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "character_id": "runner",
+    "nodes": [
+      {
+        "id": "r_a1",
+        "cost": 1,
+        "path": "A",
+        "effects": [
+          {
+            "stat": "attack_speed",
+            "value": 0.12
+          }
+        ]
+      },
+      {
+        "id": "r_b1",
+        "cost": 1,
+        "path": "B",
+        "effects": [
+          {
+            "stat": "damage",
+            "value": 0.07
+          }
+        ]
+      }
+    ]
+  }
+]

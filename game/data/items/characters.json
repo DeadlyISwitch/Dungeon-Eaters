@@ -1,0 +1,50 @@
+[
+  {
+    "id": "warden",
+    "name": "Warden",
+    "base_stats": {
+      "max_hp": 180,
+      "damage": 12,
+      "attack_speed": 1.0
+    },
+    "passive_unique": "thorns",
+    "starter_weapons": [
+      "blade_orbit"
+    ],
+    "blueprints": [
+      "tank_core"
+    ]
+  },
+  {
+    "id": "arcanist",
+    "name": "Arcanist",
+    "base_stats": {
+      "max_hp": 130,
+      "damage": 16,
+      "attack_speed": 1.2
+    },
+    "passive_unique": "mana_flux",
+    "starter_weapons": [
+      "arc_bolt"
+    ],
+    "blueprints": [
+      "elemental_loop"
+    ]
+  },
+  {
+    "id": "runner",
+    "name": "Runner",
+    "base_stats": {
+      "max_hp": 120,
+      "damage": 10,
+      "attack_speed": 1.5
+    },
+    "passive_unique": "rush_drive",
+    "starter_weapons": [
+      "needle_fan"
+    ],
+    "blueprints": [
+      "crit_dash"
+    ]
+  }
+]

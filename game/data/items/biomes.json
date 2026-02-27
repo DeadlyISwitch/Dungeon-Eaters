@@ -1,0 +1,22 @@
+[
+  {
+    "id": "abyss",
+    "name": "Abyss Plaza",
+    "modifiers": {
+      "enemy_speed": 1.0
+    },
+    "obstacles": {
+      "pillars": 8
+    }
+  },
+  {
+    "id": "neon_ruins",
+    "name": "Neon Ruins",
+    "modifiers": {
+      "enemy_speed": 1.1
+    },
+    "obstacles": {
+      "walls": 6
+    }
+  }
+]

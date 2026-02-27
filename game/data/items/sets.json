@@ -1,0 +1,16 @@
+[
+  {
+    "id": "storm_set",
+    "name": "Storm Set",
+    "requires": [
+      "arc_bolt",
+      "storm_vial"
+    ],
+    "bonus": [
+      {
+        "stat": "attack_speed",
+        "value": 0.15
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chrono_shard",
+    "name": "Chrono Shard",
+    "tags": [
+      "tempo"
+    ],
+    "effects": [
+      {
+        "rule": "boss_spawn_delay",
+        "value": 10
+      },
+      {
+        "rule": "xp_multiplier",
+        "value": 1.1
+      }
+    ]
+  }
+]

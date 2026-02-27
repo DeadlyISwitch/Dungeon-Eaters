@@ -1,0 +1,187 @@
+[
+  {
+    "id": "blade_orbit",
+    "name": "Blade Orbit",
+    "tags": [
+      "physical",
+      "orbit",
+      "aoe"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "orbit",
+    "evolution": {
+      "needs_passive": "iron_heart",
+      "result": "blade_orbit_ex"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "arc_bolt",
+    "name": "Arc Bolt",
+    "tags": [
+      "lightning",
+      "projectile"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "line",
+    "evolution": {
+      "needs_passive": "storm_vial",
+      "result": "arc_storm"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "needle_fan",
+    "name": "Needle Fan",
+    "tags": [
+      "physical",
+      "multi"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "cone",
+    "evolution": {
+      "needs_passive": "focus_lens",
+      "result": "needle_hurricane"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "ember_orb",
+    "name": "Ember Orb",
+    "tags": [
+      "fire",
+      "dot"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "orbit",
+    "evolution": {
+      "needs_passive": "ember_tonic",
+      "result": "nova_orb"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "frost_lance",
+    "name": "Frost Lance",
+    "tags": [
+      "ice",
+      "pierce"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "line",
+    "evolution": {
+      "needs_passive": "glacier_core",
+      "result": "frozen_comet"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "venom_sprayer",
+    "name": "Venom Sprayer",
+    "tags": [
+      "poison",
+      "cone"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "cone",
+    "evolution": {
+      "needs_passive": "toxic_reservoir",
+      "result": "plague_cloud"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "shock_mine",
+    "name": "Shock Mine",
+    "tags": [
+      "lightning",
+      "trap"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "mine",
+    "evolution": {
+      "needs_passive": "storm_vial",
+      "result": "storm_web"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  },
+  {
+    "id": "void_disk",
+    "name": "Void Disk",
+    "tags": [
+      "arcane",
+      "bounce"
+    ],
+    "base_stats": {
+      "damage": 12,
+      "cooldown": 0.9
+    },
+    "scaling": {
+      "damage_per_level": 0.12
+    },
+    "pattern_type": "bounce",
+    "evolution": {
+      "needs_passive": "astral_thread",
+      "result": "singularity_disk"
+    },
+    "icon_spec": {
+      "kind": "orb"
+    }
+  }
+]
