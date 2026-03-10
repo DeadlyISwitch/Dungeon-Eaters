@@ -1,0 +1,28 @@
+[
+  {
+    "id": "meta_power_1",
+    "name": "Power I",
+    "cost": 1,
+    "prereqs": [],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "meta_route_a",
+    "name": "Route A",
+    "cost": 2,
+    "prereqs": [
+      "meta_power_1"
+    ],
+    "effects": [
+      {
+        "rule": "transform_pick_count",
+        "value": 1
+      }
+    ]
+  }
+]

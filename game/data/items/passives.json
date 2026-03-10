@@ -1,0 +1,168 @@
+[
+  {
+    "id": "iron_heart",
+    "name": "Iron Heart",
+    "tags": [
+      "defense"
+    ],
+    "effects": [
+      {
+        "stat": "max_hp",
+        "value": 0.15
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "storm_vial",
+    "name": "Storm Vial",
+    "tags": [
+      "lightning",
+      "cooldown"
+    ],
+    "effects": [
+      {
+        "stat": "attack_speed",
+        "value": 0.12
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "focus_lens",
+    "name": "Focus Lens",
+    "tags": [
+      "crit",
+      "projectile"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.1
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "ember_tonic",
+    "name": "Ember Tonic",
+    "tags": [
+      "fire",
+      "dot"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.1
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "glacier_core",
+    "name": "Glacier Core",
+    "tags": [
+      "ice",
+      "duration"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.08
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "toxic_reservoir",
+    "name": "Toxic Reservoir",
+    "tags": [
+      "poison",
+      "duration"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.08
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "astral_thread",
+    "name": "Astral Thread",
+    "tags": [
+      "arcane",
+      "area"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.1
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "quick_boots",
+    "name": "Quick Boots",
+    "tags": [
+      "move"
+    ],
+    "effects": [
+      {
+        "stat": "attack_speed",
+        "value": 0.08
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "lucky_charm",
+    "name": "Lucky Charm",
+    "tags": [
+      "luck"
+    ],
+    "effects": [
+      {
+        "stat": "attack_speed",
+        "value": 0.05
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  },
+  {
+    "id": "magnet_coil",
+    "name": "Magnet Coil",
+    "tags": [
+      "magnet"
+    ],
+    "effects": [
+      {
+        "stat": "damage",
+        "value": 0.06
+      }
+    ],
+    "icon_spec": {
+      "kind": "star"
+    }
+  }
+]
